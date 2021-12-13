@@ -53,13 +53,13 @@ CREATE EXTENSION earthdistance;
 ### ⚙ Endpoints - Deployed to Heroku
 
 
-- [/countries - Países](https://dio-cities-distance-api.herokuapp.com/api/v1/countries)
-- [/states - Estados](https://dio-cities-distance-api.herokuapp.com/api/v1/states)
-- [/cities - Cidades](https://dio-cities-distance-api.herokuapp.com/api/v1/cities)
+- [/countries - Países](https://aqueous-refuge-21022.herokuapp.com/api/v1/countries)
+- [/states - Estados](https://aqueous-refuge-21022.herokuapp.com/api/v1/states)
+- [/cities - Cidades](https://aqueous-refuge-21022.herokuapp.com/api/v1/cities)
 
 
-- [/distance/by-points - Distância entre pontos (milhas)](https://dio-cities-distance-api.herokuapp.com/api/v1/distance/by-points?from=4929&to=5254)
-- [/distance/by-cube - Distância entre pontos (metros)](https://dio-cities-distance-api.herokuapp.com/api/v1/distance/by-cube?from=4929&to=5254)
+- [/distance/by-points - Distância entre pontos (milhas)](https://aqueous-refuge-21022.herokuapp.com/api/v1/distance/by-points?from=4929&to=5254)
+- [/distance/by-cube - Distância entre pontos (metros)](https://aqueous-refuge-21022.herokuapp.com/api/v1/distance/by-cube?from=4929&to=5254)
 
 ---
 
